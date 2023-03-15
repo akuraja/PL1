@@ -8,6 +8,7 @@ namespace PL1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+             Console.WriteLine("Lp kolegice");
         }
     }
 }
